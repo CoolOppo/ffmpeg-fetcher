@@ -1,6 +1,8 @@
 # `ffmpeg-fetcher`
 This will download https://ffmpeg.zeranoe.com/builds/win64/shared/ffmpeg-latest-win64-shared.zip, extract it, and install it to `C:\opt\bin\ffmpeg`.
 
+## [Latest Release Download](https://github.com/CoolOppo/ffmpeg-fetcher/releases/latest)
+
 ## Steps
 - Create `C:\opt\` (Make a pull request if you want to add command-line options or something. It's fine for my uses and I don't care.)
 - Install 7-Zip if you don't have it already. Make sure it's the right arch because `ffmpeg-fetcher` looks for it at `C:\Program Files\7-Zip\7zG.exe`.
