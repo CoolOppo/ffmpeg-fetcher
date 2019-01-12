@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+ffmpeg-fetcher.so
+ffmpeg-fetcher.dylib
+ffmpeg-fetcher.dll
+ffmpeg-fetcher.a
+ffmpeg-fetcher.lib
+ffmpeg-fetcher-test-*
+*.exe
+*.o
+*.obj
+*.lst

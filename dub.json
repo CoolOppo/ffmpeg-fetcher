@@ -1,0 +1,9 @@
+{
+	"description": "Automatically downloads and extracts zeranoe-ffmpeg",
+	"license": "The Unlicense",
+	"authors": [
+		"CoolOppo"
+	],
+	"copyright": "Public Domain",
+	"name": "ffmpeg-fetcher"
+}
